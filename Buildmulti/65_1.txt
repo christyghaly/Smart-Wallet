@@ -1,0 +1,3 @@
+Name      Bill    Donation  Deposit   Withdraw  Balance   Date      Time      
+dina      794     0         200       0         200       07.04.202002:00:28  
+dina      794     0         3000      0         3200      07.04.202002:00:58  

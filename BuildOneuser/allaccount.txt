@@ -1,0 +1,2 @@
+Name      Age    ID                       AccNum File      Cash           
+chris     20     12345678911111           0      11_0.txt  200            
